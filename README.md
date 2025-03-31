@@ -3,4 +3,4 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me @kevv.yang on instagram
 https://www.linkedin.com/in/kevvyang/
-kevvyang@stanford.edu
+kevin.66.yang@hotmail.com
