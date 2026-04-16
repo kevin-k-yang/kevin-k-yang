@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @kevin-k-yang
-- 👀 I’m interested in CS, Machine Learning, AI, Statistics
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me @kevv.yang on instagram
-https://www.linkedin.com/in/kevvyang/
-kevvyang@alumni.stanford.edu
+### Hi, I'm Kevin 👋
+
+Quant trader by day, building on the side. Stanford CS + Stats ('24/'25).
+
+**What I'm up to**
+- Trading SOFR futures systematically
+- Building Claude tools for my own workflows
+- Building a personal AI news curator
+
+**Reach me**
+- ✉️ kevvyang@alumni.stanford.edu
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevvyang/)
+- 📸 [@kevv.yang](https://instagram.com/kevv.yang)
